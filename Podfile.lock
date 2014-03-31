@@ -1,0 +1,16 @@
+PODS:
+  - Facebook-iOS-SDK (3.13.0)
+  - Parse-iOS-SDK (1.2.18):
+    - Facebook-iOS-SDK (~> 3.7)
+  - Reachability (3.1.1)
+
+DEPENDENCIES:
+  - Parse-iOS-SDK (~> 1.2)
+  - Reachability (~> 3.0)
+
+SPEC CHECKSUMS:
+  Facebook-iOS-SDK: 5788541337dc88265bc940cb5ffb05915f9b64e3
+  Parse-iOS-SDK: 48bfd538a107b6e1f29eebe59fa80c0f0b844dd1
+  Reachability: be4883bb93f31e38266ae3365e5600a317aae735
+
+COCOAPODS: 0.30.0
